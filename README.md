@@ -1,4 +1,4 @@
-# Day 9 – Blind Auction Project 🏷️
+# Day 9 – Blind Auction 🏷️
 
 Part of my **100 Days of Python Projects** challenge.  
 This project simulates a blind auction system where multiple users can place bids anonymously, and the program determines the highest bidder.
