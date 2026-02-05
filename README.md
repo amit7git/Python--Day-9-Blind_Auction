@@ -63,4 +63,4 @@ The Blind Auction Project is a console-based Python application that collects bi
 ---
 
 ## 🌐 Repository
-https://github.com/amit7git/Python--Day-9-Blind_Auction
+https://amit7git.github.io/Python--Day-9-Blind_Auction
